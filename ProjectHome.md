@@ -1,0 +1,1 @@
+I had serached net for ShoutBox with login feature but cannot find any.. So I have created this project.
